@@ -1,5 +1,8 @@
-### Hi there 👋
+![Knäckepizza](/images/cover.png "Knäckepizza")
+### Hej! I'm Knäckepizza [^1] 👋
+**NICK NETTLETON**
 
+I'm a Fullstack Web Developer in Atlanta, Georgia.
 <!--
 **knackepizza/knackepizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[^1]: Not the actual brand Knäckepizza.

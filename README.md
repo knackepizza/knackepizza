@@ -1,5 +1,5 @@
 <!-- **knackepizza/knackepizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
-![Knäckepizza](https://github.com/knackepizza/knackepizza/blob/master/images/cover.png "Knäckepizza")
+![Knäckepizza](https://github.com/knackepizza/knackepizza/blob/master/images/cover-new.png "Knäckepizza")
 ### Hej! I'm Knäckepizza 👋
 **NICK NETTLETON**
 

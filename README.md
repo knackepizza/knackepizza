@@ -17,9 +17,9 @@ A few large feats I've come across:
 - Created my own social media-esque web app
 
 A few things that I do:
-- Lots of PHP/MySQL
-- Using SSH/FTP but also IIS
-- Custom WordPress & Shopify Development *(and troubleshooting)*
-- APIs (JSON & SOAP)
+- PHP + SQL
+- AWS (Linux/CentOS/Ubuntu)
+- Shopify Liquid & WordPress Development
+- REST API & SOAP XML Requests
 
 *Disclaimer: Not the actual brand Knäckepizza.*

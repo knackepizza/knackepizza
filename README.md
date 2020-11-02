@@ -3,7 +3,7 @@
 ### Hej! I'm Knäckepizza 👋
 **NICK NETTLETON**
 
-I'm a Fullstack Web Developer in Atlanta, Georgia. I'm only a Sophomore at Kennesaw State University, but I have almost 2 years of **ACTUAL** work experience doing web development. I have taught interns as well as people senior to me (how cool is that?). More importantly, I have increased conversion rates and returning customer rates on many websites because of the code that I implement. 
+As a 19 year old on my second year at Kennesaw State University, I've already done a TON of cool stuff in the work force (2 years and counting!). I'm a Fullstack Web Developer with experience in AWS, PHP, SQL, Linux/CentOS & Ubuntu, Shopify Liquid, WordPress, REST API's, SOAP XML requests, and so much more! I've taught people senior and junior to me, and have solved countless problems for multiple credible and trusted companies!
 
 A few people I've worked for:
 - Gretrix (Jul 2019)

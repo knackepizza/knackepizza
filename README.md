@@ -7,7 +7,7 @@ As a 19 year old on my second year at Kennesaw State University, I've already do
 
 A few people I've worked for:
 - Gretrix (Jul 2019)
-- Seek Capital (Nov 2019)
+- Seek Capital (Nov 2019 - Nov 2020)
 - 5+ Solo Clients
 
 

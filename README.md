@@ -11,8 +11,8 @@ A few people I've worked for:
 - 5+ Solo Clients
 
 
-A few large feats I've come across:
-- TransUnion API Project
+A few large feats I've been a part of:
+- E\*TRADE Trading Bot 
 - Large Scale Dropshipping Store Management & Development
 - Created my own social media-esque web app
 

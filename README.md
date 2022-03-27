@@ -6,7 +6,7 @@
 As a 20 year old on my second year at Kennesaw State University, I've already done a TON of cool stuff in the work force (2 years and counting!). I'm a Fullstack Web Developer with experience in AWS, PHP, SQL, Linux/CentOS & Ubuntu, Shopify Liquid, WordPress, REST API's, requests, and so much more! I've taught people senior and junior to me, and have solved countless problems for multiple credible and trusted companies!
 
 A few people I've worked for:
-- Gretrix (Jul 2019)
+- Gretrix (Jul 2019 - March 2022)
 - Seek Capital (Nov 2019 - Nov 2020)
 - 7+ Solo Clients
 

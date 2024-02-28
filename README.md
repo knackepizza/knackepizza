@@ -3,23 +3,29 @@
 ### Hej! I'm Knäckepizza 👋
 **NICK NETTLETON**
 
-As a 20 year old on my second year at Kennesaw State University, I've already done a TON of cool stuff in the work force (2 years and counting!). I'm a Fullstack Web Developer with experience in AWS, PHP, SQL, Linux/CentOS & Ubuntu, Shopify Liquid, WordPress, REST API's, requests, and so much more! I've taught people senior and junior to me, and have solved countless problems for multiple credible and trusted companies!
+As a 23 year old in my senior year at Kennesaw State University, I've already done a TON of cool stuff in the work force (5 years and counting!). I'm a Fullstack Web Developer with experience in PHP, Shopify Liquid, React (and Native), SQL, Linux/CentOS & Ubuntu, WordPress, creating/manipulating REST API's, requests, and so much more! I've taught people senior and junior to me, and have solved countless problems for multiple credible and trusted companies!
 
 A few people I've worked for:
+- The School Box (October 2023 - Present)
+- Upwork (April 2022 - September 2023)
 - Gretrix (Jul 2019 - March 2022)
 - Seek Capital (Nov 2019 - Nov 2020)
-- 7+ Solo Clients
+- 21+ Solo Clients
 
 
-A few large feats I've been a part of:
+A few large projects I've been a part of:
 - Trading bots for E\*TRADE, Robinhood, Coinbase and Webull
-- Large Scale Dropshipping Store Management & Development
+- Shopify Development on stores with $1m+ revenue and thousands of users per hour
+- Writing my own AI models for Product and Cart Recommendations
+- Two iOS apps for Healthcare
 - Created my own social media web app
 
 A few things that I do:
 - PHP + SQL
-- AWS (Linux/CentOS/Ubuntu)
-- Shopify Liquid & WordPress Development
+- Shopify Liquid
+- React/React Native
 - REST API & SOAP XML Requests
+- WordPress Development
+- AWS (Linux/CentOS/Ubuntu)
 
 *Disclaimer: Not the actual brand Knäckepizza.*
